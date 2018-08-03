@@ -128,6 +128,9 @@ public class Solrj {
                     .get("product_catalog_name");
             System.out.println("商品类别：" + productCatalogName);
             System.out.println("第一次修改");
+            System.out.println("第er次修改");
+
+
         }
 
     }
